@@ -1,0 +1,115 @@
+[16/11/2023 05:09:32] Epoch: 1/60 | 1/10 average epoch loss: 0.117859
+[16/11/2023 05:09:32] Epoch: 1/60 | Global_step: 3000 | average validation loss: 0.442040 | ACC: 0.912922| AUC: 0.979113
+[16/11/2023 05:31:50] Epoch: 1/60 | 1/10 average epoch loss: 0.094334
+[16/11/2023 05:31:50] Epoch: 1/60 | Global_step: 6000 | average validation loss: 0.286030 | ACC: 0.951497| AUC: 0.988102
+[16/11/2023 05:54:10] Epoch: 1/60 | 1/10 average epoch loss: 0.078354
+[16/11/2023 05:54:10] Epoch: 1/60 | Global_step: 9000 | average validation loss: 0.288970 | ACC: 0.950425| AUC: 0.988181
+[16/11/2023 06:16:29] Epoch: 1/60 | 1/10 average epoch loss: 0.071214
+[16/11/2023 06:16:29] Epoch: 1/60 | Global_step: 12000 | average validation loss: 0.217150 | ACC: 0.965223| AUC: 0.993429
+[16/11/2023 06:38:44] Epoch: 1/60 | 1/10 average epoch loss: 0.063938
+[16/11/2023 06:38:44] Epoch: 1/60 | Global_step: 15000 | average validation loss: 0.199990 | ACC: 0.968207| AUC: 0.993787
+[16/11/2023 07:01:01] Epoch: 1/60 | 1/10 average epoch loss: 0.062856
+[16/11/2023 07:01:01] Epoch: 1/60 | Global_step: 18000 | average validation loss: 0.190710 | ACC: 0.971642| AUC: 0.995064
+[16/11/2023 07:23:17] Epoch: 1/60 | 1/10 average epoch loss: 0.056439
+[16/11/2023 07:23:17] Epoch: 1/60 | Global_step: 21000 | average validation loss: 0.169550 | ACC: 0.974346| AUC: 0.995952
+[16/11/2023 07:45:34] Epoch: 1/60 | 1/10 average epoch loss: 0.056434
+[16/11/2023 07:45:34] Epoch: 1/60 | Global_step: 24000 | average validation loss: 0.160370 | ACC: 0.974134| AUC: 0.996102
+[16/11/2023 08:07:55] Epoch: 1/60 | 1/10 average epoch loss: 0.055813
+[16/11/2023 08:07:55] Epoch: 1/60 | Global_step: 27000 | average validation loss: 0.159680 | ACC: 0.975324| AUC: 0.996340
+[16/11/2023 08:30:14] Epoch: 1/60 | 1/10 average epoch loss: 0.051190
+[16/11/2023 08:30:14] Epoch: 1/60 | Global_step: 30000 | average validation loss: 0.151190 | ACC: 0.976067| AUC: 0.996805
+[16/11/2023 08:52:29] Epoch: 1/60 | 1/10 average epoch loss: 0.050667
+[16/11/2023 08:52:29] Epoch: 1/60 | Global_step: 33000 | average validation loss: 0.147020 | ACC: 0.976631| AUC: 0.996617
+Saved model. lr 0.000200
+[16/11/2023 09:17:09] Epoch: 1/60 | 1/10 average epoch loss: 0.048091
+[16/11/2023 09:17:09] Epoch: 1/60 | Global_step: 36000 | average validation loss: 0.142350 | ACC: 0.979307| AUC: 0.997041
+Saved model. lr 0.000200
+[16/11/2023 09:38:54] Epoch: 1/60 | 1/10 average epoch loss: 0.049262
+[16/11/2023 09:38:54] Epoch: 1/60 | Global_step: 39000 | average validation loss: 0.144910 | ACC: 0.976709| AUC: 0.996913
+[16/11/2023 10:01:06] Epoch: 1/60 | 1/10 average epoch loss: 0.046410
+[16/11/2023 10:01:06] Epoch: 1/60 | Global_step: 42000 | average validation loss: 0.162340 | ACC: 0.973799| AUC: 0.996366
+[16/11/2023 10:23:32] Epoch: 1/60 | 1/10 average epoch loss: 0.044162
+[16/11/2023 10:23:32] Epoch: 1/60 | Global_step: 45000 | average validation loss: 0.123560 | ACC: 0.981257| AUC: 0.997707
+Saved model. lr 0.000200
+[16/11/2023 10:45:58] Epoch: 2/60 | 1/10 average epoch loss: 0.042954
+[16/11/2023 10:45:58] Epoch: 2/60 | Global_step: 48000 | average validation loss: 0.139450 | ACC: 0.977413| AUC: 0.997815
+Saved model. lr 0.000200
+[16/11/2023 11:08:35] Epoch: 2/60 | 1/10 average epoch loss: 0.039937
+[16/11/2023 11:08:35] Epoch: 2/60 | Global_step: 51000 | average validation loss: 0.134320 | ACC: 0.980184| AUC: 0.998026
+Saved model. lr 0.000200
+[16/11/2023 11:32:10] Epoch: 2/60 | 1/10 average epoch loss: 0.041878
+[16/11/2023 11:32:10] Epoch: 2/60 | Global_step: 54000 | average validation loss: 0.112430 | ACC: 0.982056| AUC: 0.998111
+Saved model. lr 0.000200
+[16/11/2023 11:55:19] Epoch: 2/60 | 1/10 average epoch loss: 0.040146
+[16/11/2023 11:55:19] Epoch: 2/60 | Global_step: 57000 | average validation loss: 0.115970 | ACC: 0.981961| AUC: 0.998085
+[16/11/2023 12:17:55] Epoch: 2/60 | 1/10 average epoch loss: 0.041438
+[16/11/2023 12:17:55] Epoch: 2/60 | Global_step: 60000 | average validation loss: 0.107190 | ACC: 0.983168| AUC: 0.998213
+Saved model. lr 0.000200
+[16/11/2023 12:40:24] Epoch: 2/60 | 1/10 average epoch loss: 0.042076
+[16/11/2023 12:40:24] Epoch: 2/60 | Global_step: 63000 | average validation loss: 0.111740 | ACC: 0.982670| AUC: 0.998086
+[16/11/2023 13:03:00] Epoch: 2/60 | 1/10 average epoch loss: 0.039629
+[16/11/2023 13:03:00] Epoch: 2/60 | Global_step: 66000 | average validation loss: 0.106470 | ACC: 0.983497| AUC: 0.998377
+Saved model. lr 0.000200
+[16/11/2023 13:25:18] Epoch: 2/60 | 1/10 average epoch loss: 0.037801
+[16/11/2023 13:25:18] Epoch: 2/60 | Global_step: 69000 | average validation loss: 0.102570 | ACC: 0.984229| AUC: 0.998425
+Saved model. lr 0.000200
+[16/11/2023 13:47:46] Epoch: 2/60 | 1/10 average epoch loss: 0.039177
+[16/11/2023 13:47:46] Epoch: 2/60 | Global_step: 72000 | average validation loss: 0.111490 | ACC: 0.982419| AUC: 0.997964
+[16/11/2023 14:10:17] Epoch: 2/60 | 1/10 average epoch loss: 0.036705
+[16/11/2023 14:10:17] Epoch: 2/60 | Global_step: 75000 | average validation loss: 0.107400 | ACC: 0.982531| AUC: 0.998380
+[16/11/2023 14:35:54] Epoch: 2/60 | 1/10 average epoch loss: 0.036018
+[16/11/2023 14:35:54] Epoch: 2/60 | Global_step: 78000 | average validation loss: 0.101380 | ACC: 0.984698| AUC: 0.998615
+Saved model. lr 0.000200
+[16/11/2023 14:58:31] Epoch: 2/60 | 1/10 average epoch loss: 0.037535
+[16/11/2023 14:58:31] Epoch: 2/60 | Global_step: 81000 | average validation loss: 0.104670 | ACC: 0.983302| AUC: 0.998288
+[16/11/2023 15:21:15] Epoch: 2/60 | 1/10 average epoch loss: 0.037787
+[16/11/2023 15:21:15] Epoch: 2/60 | Global_step: 84000 | average validation loss: 0.089050 | ACC: 0.986028| AUC: 0.998877
+Saved model. lr 0.000200
+[16/11/2023 15:44:13] Epoch: 2/60 | 1/10 average epoch loss: 0.035818
+[16/11/2023 15:44:13] Epoch: 2/60 | Global_step: 87000 | average validation loss: 0.088740 | ACC: 0.985883| AUC: 0.998875
+[16/11/2023 16:06:55] Epoch: 2/60 | 1/10 average epoch loss: 0.034991
+[16/11/2023 16:06:55] Epoch: 2/60 | Global_step: 90000 | average validation loss: 0.082650 | ACC: 0.986771| AUC: 0.999095
+Saved model. lr 0.000200
+[16/11/2023 16:29:57] Epoch: 2/60 | 1/10 average epoch loss: 0.035846
+[16/11/2023 16:29:57] Epoch: 2/60 | Global_step: 93000 | average validation loss: 0.088910 | ACC: 0.986855| AUC: 0.999009
+[16/11/2023 16:52:44] Epoch: 3/60 | 1/10 average epoch loss: 0.032685
+[16/11/2023 16:52:44] Epoch: 3/60 | Global_step: 96000 | average validation loss: 0.083710 | ACC: 0.986709| AUC: 0.998921
+[16/11/2023 17:15:40] Epoch: 3/60 | 1/10 average epoch loss: 0.030706
+[16/11/2023 17:15:40] Epoch: 3/60 | Global_step: 99000 | average validation loss: 0.079060 | ACC: 0.987497| AUC: 0.999019
+[16/11/2023 17:37:58] Epoch: 3/60 | 1/10 average epoch loss: 0.033766
+[16/11/2023 17:37:58] Epoch: 3/60 | Global_step: 102000 | average validation loss: 0.092920 | ACC: 0.985223| AUC: 0.998759
+[16/11/2023 18:00:01] Epoch: 3/60 | 1/10 average epoch loss: 0.032862
+[16/11/2023 18:00:01] Epoch: 3/60 | Global_step: 105000 | average validation loss: 0.099900 | ACC: 0.984263| AUC: 0.998912
+[16/11/2023 18:22:07] Epoch: 3/60 | 1/10 average epoch loss: 0.033549
+[16/11/2023 18:22:07] Epoch: 3/60 | Global_step: 108000 | average validation loss: 0.090120 | ACC: 0.985849| AUC: 0.998839
+[16/11/2023 18:44:39] Epoch: 3/60 | 1/10 average epoch loss: 0.032356
+[16/11/2023 18:44:39] Epoch: 3/60 | Global_step: 111000 | average validation loss: 0.088690 | ACC: 0.986542| AUC: 0.998869
+[16/11/2023 19:07:05] Epoch: 3/60 | 1/10 average epoch loss: 0.035016
+[16/11/2023 19:07:05] Epoch: 3/60 | Global_step: 114000 | average validation loss: 0.108720 | ACC: 0.982855| AUC: 0.998256
+[16/11/2023 19:29:05] Epoch: 3/60 | 1/10 average epoch loss: 0.034040
+[16/11/2023 19:29:05] Epoch: 3/60 | Global_step: 117000 | average validation loss: 0.109550 | ACC: 0.982251| AUC: 0.998986
+[16/11/2023 19:49:30] Epoch: 3/60 | 1/10 average epoch loss: 0.032579
+[16/11/2023 19:49:30] Epoch: 3/60 | Global_step: 120000 | average validation loss: 0.081800 | ACC: 0.987480| AUC: 0.998992
+[16/11/2023 20:09:52] Epoch: 3/60 | 1/10 average epoch loss: 0.031789
+[16/11/2023 20:09:52] Epoch: 3/60 | Global_step: 123000 | average validation loss: 0.111740 | ACC: 0.983034| AUC: 0.998818
+[16/11/2023 20:30:14] Epoch: 3/60 | 1/10 average epoch loss: 0.032878
+[16/11/2023 20:30:14] Epoch: 3/60 | Global_step: 126000 | average validation loss: 0.111490 | ACC: 0.982039| AUC: 0.998844
+[16/11/2023 20:51:29] Epoch: 3/60 | 1/10 average epoch loss: 0.031675
+[16/11/2023 20:51:29] Epoch: 3/60 | Global_step: 129000 | average validation loss: 0.081540 | ACC: 0.987983| AUC: 0.999033
+[16/11/2023 21:13:29] Epoch: 3/60 | 1/10 average epoch loss: 0.032018
+[16/11/2023 21:13:29] Epoch: 3/60 | Global_step: 132000 | average validation loss: 0.082650 | ACC: 0.987413| AUC: 0.999003
+[16/11/2023 21:35:30] Epoch: 3/60 | 1/10 average epoch loss: 0.034292
+[16/11/2023 21:35:30] Epoch: 3/60 | Global_step: 135000 | average validation loss: 0.078340 | ACC: 0.987793| AUC: 0.999012
+[16/11/2023 21:57:28] Epoch: 3/60 | 1/10 average epoch loss: 0.030600
+[16/11/2023 21:57:28] Epoch: 3/60 | Global_step: 138000 | average validation loss: 0.065940 | ACC: 0.989570| AUC: 0.999334
+Saved model. lr 0.000200
+[16/11/2023 22:19:24] Epoch: 4/60 | 1/10 average epoch loss: 0.029390
+[16/11/2023 22:19:24] Epoch: 4/60 | Global_step: 141000 | average validation loss: 0.070550 | ACC: 0.988799| AUC: 0.999202
+[16/11/2023 22:41:17] Epoch: 4/60 | 1/10 average epoch loss: 0.028153
+[16/11/2023 22:41:17] Epoch: 4/60 | Global_step: 144000 | average validation loss: 0.097800 | ACC: 0.983782| AUC: 0.998693
+[16/11/2023 23:03:15] Epoch: 4/60 | 1/10 average epoch loss: 0.030434
+[16/11/2023 23:03:15] Epoch: 4/60 | Global_step: 147000 | average validation loss: 0.074310 | ACC: 0.988413| AUC: 0.999092
+[16/11/2023 23:25:16] Epoch: 4/60 | 1/10 average epoch loss: 0.029323
+[16/11/2023 23:25:16] Epoch: 4/60 | Global_step: 150000 | average validation loss: 0.077110 | ACC: 0.988520| AUC: 0.999092
+[16/11/2023 23:47:17] Epoch: 4/60 | 1/10 average epoch loss: 0.031355
+[16/11/2023 23:47:17] Epoch: 4/60 | Global_step: 153000 | average validation loss: 0.070330 | ACC: 0.989268| AUC: 0.999210
